@@ -1,5 +1,11 @@
 # segVolData
-segmented features in volumetric datasets
+segmented features in volumetric datasets.
+
+For further information on how to retreive segmentation layers from webknossos datasets, see below: 
+
+https://docs.webknossos.org/webknossos-py/
+
+
 
 
 ## holographic nanotomography "XNH"
