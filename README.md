@@ -1,5 +1,5 @@
 # segVolData
-segmented features in volumetric datasets.
+Segmented features in volumetric datasets.
 
 You can find information on how to dowload raw and segmentation data from a webknossos dataset [in this link](https://docs.webknossos.org/webknossos-py/). 
 
