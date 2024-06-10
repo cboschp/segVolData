@@ -1,7 +1,7 @@
 # segVolData
 segmented features in volumetric datasets.
 
-You can find information on how to retreive segmentation layers from webknossos [in this link](https://docs.webknossos.org/webknossos-py/). 
+You can find information on how to dowload raw and segmentation data from a webknossos dataset [in this link](https://docs.webknossos.org/webknossos-py/). 
 
 
 
