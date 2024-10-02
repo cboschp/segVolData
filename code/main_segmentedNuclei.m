@@ -2,7 +2,7 @@
 
 %% initialise variables
 dirs = init_dirs;
-fg = init_figOptions;
+fg = init_figOptionsL;
 
 %% ungzip data tables
 C432_filteredGZ = 'C432_XNH-v10-segv1-masked_nuclei_data_sphericity_vx_filtered.csv.gz';
@@ -92,19 +92,19 @@ summaryT = table(n_datasets, nucVolume_avg, nucVolume_std, nucVolume_err, nucSph
 %% plot histograms
 % volumes
 fg_volumes(C432_filtered,nucT.threshold_volume_um3(1),[nucT.datasets{1} ', volume'],true,fg);
-figSave([dirs.fg filesep 'C432_v']);
+figSave([dirs.fg filesep 'C432_v_L']);
 fg_volumes(Y391_filtered,nucT.threshold_volume_um3(2),[nucT.datasets{2} ', volume'],true,fg);
-figSave([dirs.fg filesep 'Y391_v']);
+figSave([dirs.fg filesep 'Y391_v_L']);
 fg_volumes(Y489_filtered,nucT.threshold_volume_um3(3),[nucT.datasets{3} ', volume'],true,fg);
-figSave([dirs.fg filesep 'Y489_v']);
+figSave([dirs.fg filesep 'Y489_v_L']);
 
 % sphericities
 fg_sphericities(C432_filtered,nucT.threshold_sphericity(1),[nucT.datasets{1} ', sphericity'],true,fg);
-figSave([dirs.fg filesep 'C432_s']);
+figSave([dirs.fg filesep 'C432_s_L']);
 fg_sphericities(C432_filtered,nucT.threshold_sphericity(2),[nucT.datasets{2} ', sphericity'],true,fg);
-figSave([dirs.fg filesep 'Y391_s']);
+figSave([dirs.fg filesep 'Y391_s_L']);
 fg_sphericities(C432_filtered,nucT.threshold_sphericity(3),[nucT.datasets{3} ', sphericity'],true,fg);
-figSave([dirs.fg filesep 'Y489_s']);
+figSave([dirs.fg filesep 'Y489_s_L']);
 
 %% plot v-sph across datasets
 fg_vol_sph(nucT, 'all datasets', true, fg);
