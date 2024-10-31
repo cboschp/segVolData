@@ -1,6 +1,10 @@
 # segVolData
 Segmented features in volumetric datasets.
 
+Supporting code and data to [this paper](https://doi.org/10.1117/12.3028309): 
+
+> Andrea Nathansen, Matthis Clausen, Manuel Berning, Ethan MacKenzie, Yuxin Zhang, Alexandra Pacureanu, Andreas T. Schaefer, Norman Rzepka, Carles Bosch, "Cell nuclei segmentation in mm-scale x-ray holographic nanotomography images of mouse brain tissue," Proc. SPIE 13152, Developments in X-Ray Tomography XV, 131521B (23 October 2024); https://doi.org/10.1117/12.3028309
+
 
 ## How to use this repository
 
