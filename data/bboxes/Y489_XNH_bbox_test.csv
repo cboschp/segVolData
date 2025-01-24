@@ -1,0 +1,21 @@
+﻿bbox_ID,bbox_histLayer,bbox_histLayer_long,x,y,z,w,h,d
+GL_ctr1,GL,glomerular layer,3100,3500,3900,500,500,500
+GL_ctr2,GL,glomerular layer,5100,2800,4100,500,500,500
+GL_ctr3,GL,glomerular layer,7000,2100,3500,500,500,500
+EPL_ctr1,EPL,external plexiform layer,3100,3500,2400,500,500,500
+EPL_ctr2,EPL,external plexiform layer,5100,2800,2400,500,500,500
+EPL_ctr3,EPL,external plexiform layer,7000,2100,2200,500,500,500
+MCL_ctr1,MCL,mitral cell layer,3100,3500,900,500,500,500
+MCL_ctr2,MCL,mitral cell layer,5100,2800,1200,500,500,500
+MCL_ctr3,MCL,mitral cell layer,7000,2100,1000,500,500,500
+GL_border1,GL,glomerular layer,3100,2530,3900,500,500,500
+GL_border2,GL,glomerular layer,5600,1810,3700,500,500,500
+GL_border3,GL,glomerular layer,7000,1100,3500,500,500,500
+EPL_border1,EPL,external plexiform layer,3100,2530,2400,500,500,500
+EPL_border2,EPL,external plexiform layer,5100,1800,2400,500,500,500
+EPL_border3,EPL,external plexiform layer,7000,1100,2200,500,500,500
+MCL_border1,MCL,mitral cell layer,3400,2600,950,500,500,500
+MCL_border2,MCL,mitral cell layer,5100,1825,1000,500,500,500
+MCL_border3,MCL,mitral cell layer,7000,1130,800,500,500,500
+dark_1,GL,glomerular layer,1600,3700,2800,500,500,500
+dark_2,MCL,mitral cell layer,8100,1400,900,500,500,500
