@@ -2,8 +2,8 @@
 
 These are the bounding boxes that appear in the different training and test datasets.
 
-`[x,y,z]` refer to the coordinates of the top-leftmost vertex of each bounding box.
-`[w,h,d]` refer to the width, height and depth of each bounding box.
+- `[x,y,z]` refer to the coordinates of the top-leftmost vertex of each bounding box.
+- `[w,h,d]` refer to the width, height and depth of each bounding box.
  
 Units are in voxels.
 
