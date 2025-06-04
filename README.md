@@ -55,7 +55,7 @@ Then,
 
 **Note:** This approach excludes from the analysis all nuclei outside the bounding box but tangentially touching the border which, because of that, were not manually tagged in the ground truth. This mitigates any artifactual effects derived from variable ground truth annotations at those instances.
 
-< TODO: add figure >
+![alt text](https://github.com/cboschp/segVolData/blob/main/eval_C432_XNH_final.png?raw=true)
 
 **Figure Eval.1:** Example location in the C432\_XNH dataset that contains ground truth nodes and classifier outputs (explore it in 3D [here](https://webknossos.crick.ac.uk/links/3SsONJnScnSjX9fu)).
 
