@@ -57,7 +57,7 @@ Then,
 
 < TODO: add figure >
 
-**Figure Eval.1:** Example location in the C432\_XNH dataset that contains ground truth nodes and classifier outputs (explore it in 3D [here](TODO: add link)).
+**Figure Eval.1:** Example location in the C432\_XNH dataset that contains ground truth nodes and classifier outputs (explore it in 3D [here](https://webknossos.crick.ac.uk/links/3SsONJnScnSjX9fu)).
 
 ### Step 2: Filter segmented objects by volume and sphericity
 Nuclei are round biological structures, with a diameter very rarely under 5 µm or above 25 µm.   
